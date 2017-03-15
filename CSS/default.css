@@ -61,7 +61,9 @@ div {
 text-align: left;
 font-weight: 400;
 color:  #888a8b;
-text-align: top;
+text-align: left;
+vertical-align: top;
+height: 100%;
 }
 
 h3 {
@@ -69,16 +71,17 @@ h3 {
 color:  #464b4f;
 font-weight: 700;
 text-align: left;
+
 }
 
 .descr-block-1{
-	margin-left: 6%;
-	margin-right: 6%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .descr-block-3 {
-	margin-right: 6%;
-	margin-left: 6%;
+	margin-right: 5%;
+	margin-left: 5%;
 }
 
 .logo {
