@@ -11,6 +11,7 @@ html, body {
 	background-color: #23232e;
 	color: #FFFFFF;
 	width: 100%;
+	height: 100vh; /*размер в 100% экрана*/
 }
 
 .column-blocks {
