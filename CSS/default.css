@@ -1,0 +1,100 @@
+html, body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: "Roboto Condensed", sans-serif;
+	width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700');
+
+.top-block {
+	background-color: #23232e;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.column-blocks {
+	width: 100%;
+}
+
+
+.top-block > h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #ffffff;
+}
+
+.top-block > p {
+	color:  #ffffff;
+	font-size: 18px;
+	text-align: center;
+	width: 34%;
+	margin-left: 33%;
+}
+
+.main-description {
+	text-align: center;
+	color:  #464b4f;
+	font-size: 30px;
+	width: 60%;
+	margin-left: 20%;
+	margin-top: 80px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 80px;
+	font-weight: 700;
+	color:  #464b4f;
+	text-transform: uppercase;
+	width: 50%;
+	margin-left: 25%;
+}
+
+div {
+	display:inline-block;
+}
+
+.descr-block-1, .descr-block-2, .descr-block-3 {
+	width: 25%;
+	font-size: 18px;
+text-align: left;
+font-weight: 400;
+color:  #888a8b;
+text-align: top;
+}
+
+h3 {
+	font-size: 18px;
+color:  #464b4f;
+font-weight: 700;
+text-align: left;
+}
+
+.descr-block-1{
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+.descr-block-3 {
+	margin-right: 6%;
+	margin-left: 6%;
+}
+
+.logo {
+	margin-left: 45%;
+	width: 10%;
+	margin-top: 2%;
+}
+
+.down-arrow{
+	color: white;
+	border: 1px solid white;
+	border-radius: 100px;
+	filter: brightness(0) invert(1);
+	width: 2%;
+	margin-left: 49%;
+	padding: 7px;
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
